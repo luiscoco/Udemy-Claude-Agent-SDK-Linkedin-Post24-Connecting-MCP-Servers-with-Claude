@@ -1,0 +1,13 @@
+{
+  "lesson": 23,
+  "application": "Inventory over Stdio MCP",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "sku": "PEN-01",
+    "reference_stock": 12,
+    "answer": "PEN-01 has 12 units.",
+    "transport": "stdio"
+  },
+  "measured_cost_usd": null
+}
